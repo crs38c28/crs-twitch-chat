@@ -13,6 +13,10 @@
 
 > Twitch API v5 is deprecated and will be removed on 12/31/18.
 
+> This chat layout is still under construction and lack of functions.
+
+> If you want a complete and great chat layout, please use [Nightbot - Kapchat](https://nightdev.com/kapchat/) or [Streamlabs](http://www.streamlabs.com/dashboard/chat-box).
+
 ## Usage
 
 ### Access your channel 
