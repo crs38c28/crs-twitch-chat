@@ -103,7 +103,7 @@ config file : ```src/js/config.json```
   "FFZ": true,         // FFZ emote Supoort
   "client_id": "",     // Twitch application client id
   "bot_command": true, // Show bot and commands (EX: !commands)
-  "bot_list": [],      // Bot List (EX: Nightbot)
+  "bot_list": [],      // Bot List (EX: nightbot)
   "LINE_MAX": 15       // Max Line count
 }
 ``` 
